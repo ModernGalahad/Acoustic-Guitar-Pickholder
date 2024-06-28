@@ -1,1 +1,1 @@
-A simple pick holder modeled after a Taylor acoustic. It has 10 pick slots, with three for picks between 1.2 mm and 1.8 mm and seven for picks up to 1.2. Printables link: https://www.printables.com/model/926339-acoustic-guitar-pickholder
+A simple pick holder modeled after a Taylor acoustic. It has 10 pick slots, with three for picks between 1.2 mm and 1.8 mm and seven for picks up to 1.2 mm. Printables link: https://www.printables.com/model/926339-acoustic-guitar-pickholder
